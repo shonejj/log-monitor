@@ -1,0 +1,4 @@
+# Do not allow any indexing. It won't be indexed by Google.
+User-agent: *
+Disallow: /
+Disallow: /index.php
